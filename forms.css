@@ -1,0 +1,51 @@
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color:mediumvioletred;
+    
+}
+    
+
+
+h1{
+    color:mediumvioletred;
+    font-family: cursive;
+    text-align: center;
+}
+
+input,textarea{
+    font-family: cursive;
+    border: 2px solid #c71585;
+    border-radius: 0.3em;
+    width: 94%;
+}
+
+form{
+
+    font-family: cursive;
+    margin: auto;
+    width: 500px;
+    padding: 3em;
+    border: px solid #ccc;
+    border-radius: 2em;
+    background-color: white;
+    
+}
+
+
+
+.button{
+    background-color:mediumvioletred;
+    color:white;
+
+}
+
+ul{
+    list-style: none;
+}
+
