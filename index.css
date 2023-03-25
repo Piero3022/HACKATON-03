@@ -1,0 +1,47 @@
+body{
+    background-color:darkcyan;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+form{
+
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    width: 700px;
+    padding: 5em;
+    border: 0px solid #ccc;
+    background-color: darkcyan;
+    
+}
+
+input,textarea{
+    
+    font-family: cursive;
+    border: 7px 
+    
+    
+}
+
+.desc{
+    width: 99%;
+}
+
+.hj{
+    width: 49%
+}
+.hjk{
+    width: 49%
+}
+.hjkl{
+    width: 49%
+}
+.hjklm{
+    width: 49%
+}
+
+
+
